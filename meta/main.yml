@@ -8,8 +8,7 @@ galaxy_info:
   min_ansible_version: 1.9
 
  
- platforms:
-  
+  platforms:
   - name: Ubuntu
     versions:
     - trusty
